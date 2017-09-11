@@ -8,7 +8,7 @@ function init() {
 }
 
 function initVariable() {
-    wsUri ="ws://192.168.0.180:9502/";
+    wsUri ="ws://webim-serv.wangsc.me:9502/";
     chatWindow = document.getElementById("chat_window");
 }
 
